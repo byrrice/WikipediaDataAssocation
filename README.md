@@ -7,7 +7,8 @@ This was also created to do some HTML/JS outside of my website.
 ## How to Run
 1. Download nodejs
 2. go to folder with file
-3. node app.js 'link' lengthofdesiredstring (put quotes around if using parenthese) 
+3. node app.js 'link' lengthofdesiredstring (put quotes around if using parentheses/other characters unrecognizable by bash) 
+
 EX: node app.js 'https://en.wikipedia.org/wiki/James_Blake_(tennis)' 8
 
 ## To Do:
